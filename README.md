@@ -9,7 +9,7 @@ Installation from git
 ---------------------
 1. Clone the repository:
     
-    git clone git://github.com/des-testbed/des_chan.git
+        git clone git://github.com/des-testbed/des_chan.git
     
     
 2. Please make sure you have the following Python modules installed:
